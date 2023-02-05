@@ -1,2 +1,2 @@
 # odin-recipes
-html project following The Odin Project
+This is a short webpage project in HTML done following The Odin Project. 
